@@ -14,7 +14,7 @@ const SearchBar =()=>
                 </clipPath>
                 </defs>
             </svg>
-            <input className='grow outline-none bg-transparent leading-[22px] placeholder:text-[#808080]' placeholder='Search features, tutorials, etc.'/>
+            <input className='grow outline-none bg-transparent leading-[22px] placeholder:text-[#808080] font-Inter' placeholder='Search features, tutorials, etc.'/>
 
         </div>
     )

@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from './Navbar'
 import Table from './Table'
 import OverviewCards from './OverviewCards'
+import Pagination from './Pagination'
 
 const MainContainer = () => {
   return (
@@ -18,6 +19,8 @@ const MainContainer = () => {
             <h1 className='text-text-dark text-xl font-medium'>Transactions | This Month</h1>
             
             <Table />
+            <Pagination/>
+            
           </main>
     </div>
   )
