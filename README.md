@@ -19,5 +19,24 @@ To get started with the Dukaan Dashboard project, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/RitikJ22/Dukaan_Dashboard.git
+   
+   
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd Dukaan_Dashboard
+
+3. **Install Dependencies:**
+   ```bash
+   npm install
+
+4. **Run the Development Server:**
+   ```bash
+   npm run dev
+
+    
+This will launch the development server, and you can view the dashboard in your browser at http://localhost:3000.
+
+
+Happy coding! 🚀
 
    
